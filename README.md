@@ -1,6 +1,5 @@
-# OCCL
-OneFlow Collecitve Communication Library.
-A Deadlock-free Library for GPU Collective Communication.
+# DFCCL
+Deadlock Free Collective Communication Library.
 
 
 ## Compiling
