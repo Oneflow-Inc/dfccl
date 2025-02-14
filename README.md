@@ -24,5 +24,8 @@ ISBN: 979-8-4007-1196-1/25/03
 
 DOI: https://doi.org/10.1145/3689031.3717466
 
+---
+
 https://github.com/Oneflow-Inc/dfccl/
+
 The commit ID corresponding to the code used in the paper is **66260c9**.
