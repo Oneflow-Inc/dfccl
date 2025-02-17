@@ -29,3 +29,5 @@ DOI: https://doi.org/10.1145/3689031.3717466
 https://github.com/Oneflow-Inc/dfccl/
 
 The commit ID corresponding to the code used in the paper is **66260c9**.
+
+The artifact version on [Zenodo](https://zenodo.org/records/14871978) is the one used to obtain the results described in the paper.
